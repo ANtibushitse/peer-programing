@@ -1,0 +1,25 @@
+div li {
+	display: inline-block; 
+	height: 200px; 
+	width: 200px; 
+	margin: 0 auto ; 
+	
+}
+img {
+}
+.header {
+	display: inline-block;
+	text-align: center; 
+}
+h1, h2 , li {
+	text-align: center;
+	list-style: none; 
+}
+body{
+	height: 80%; 
+	background= "https://unsplash.com/?photo=1JWmFju8vVg"; > 
+
+}
+nosPlus p{
+align-content: center; 
+}
